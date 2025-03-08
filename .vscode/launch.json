@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/RK/OneDrive/Desktop/basics-and-fundamentals-c",
       "program": "c:/Users/RK/OneDrive/Desktop/basics-and-fundamentals-c/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/RK/basics-and-fundamentals-c",
+      "program": "c:/Users/RK/basics-and-fundamentals-c/build/Debug/outDebug",
+>>>>>>> e19359232642e01c817f7ba299e12d96fb8fc283
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
